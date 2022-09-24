@@ -6,5 +6,4 @@ this is for git hooks  of mahalogin
 3rd Commit added for build other projects.
 4th Commit added for build pipeline
 5th Commit
-6th Commit
 
